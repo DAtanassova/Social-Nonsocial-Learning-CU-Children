@@ -1,0 +1,8 @@
+Block,Trial,Animal,FoodOption1,FoodOption2,FoodOption1Outcome,FoodOption2Outcome,FoodOption1Probability,PercUnc_label,Condition,Identity,TrialType
+1,1,Fox,Pears,Corn,1,0,0.8,clear,social,41,
+1,2,Fox,Pears,Corn,1,0,0.8,clear,nonsocial,1,
+1,3,Fox,Pears,Corn,1,0,0.8,clear,social,41,
+1,4,Fox,Pears,Corn,1,0,0.8,ambiguous,social,41,
+1,5,Fox,Pears,Corn,0,1,0.2,clear,nonsocial,1,
+1,6,Fox,Pears,Corn,0,1,0.2,ambiguous,social,41,
+1,7,Fox,Pears,Corn,0,1,0.2,ambiguous,nonsocial,1,
